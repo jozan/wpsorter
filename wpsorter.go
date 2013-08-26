@@ -10,6 +10,16 @@ import (
 	"strings"
 )
 
+/**
+ * --------------------------
+ * HAIKU:
+ *
+ * A thousand words and me
+ * Move is about to come, Bob
+ * Low resolution
+ * --------------------------
+ */
+
 const (
 	dir_images string = "images"
 	dir_wp     string = "wp"
